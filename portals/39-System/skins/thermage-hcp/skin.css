@@ -1959,6 +1959,7 @@ ul.dashed > li:before {
 		display: block;
 		width: 50%;
 		padding: 15px;
+		margin: 0 auto;
 	}
 	.custom.carousel .carousel-inner .carousel-item img{
 		padding: 15px;
